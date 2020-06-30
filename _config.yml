@@ -35,7 +35,7 @@ github_username:  lee-ws
 remote_theme: thelehhman/texture
 texture:
   style: red
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
