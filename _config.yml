@@ -32,6 +32,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lee-ws
 
 # Build settings
+remote_theme: thelehhman/texture
+texture:
+  style: red
 theme: minima
 plugins:
   - jekyll-feed
