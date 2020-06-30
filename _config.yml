@@ -39,6 +39,25 @@ texture:
 plugins:
   - jekyll-feed
 
+texture:
+  title: lee-ws
+  tagline: Student studying computer science
+  date_format: "%b %-d, %Y"
+
+  social_links:
+#    twitter: thelehhman
+    github:  lee-ws
+#    linkedIn: in/thelehhman # format: locale/username
+texture:
+  showNav: true
+
+texture:
+  navigation:
+    - title: About
+      url: "/about/"
+    - title: Donate
+      url: "/donate/"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

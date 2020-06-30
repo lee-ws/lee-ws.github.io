@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Permalink with!"
 date:   2020-06-24 22:01:14 +0800
 categories: jekyll update
