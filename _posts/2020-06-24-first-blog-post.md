@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "First Blog Post!"
-categories: jekyll update
+categories: 
 ---
 First blog post! Hope this works.

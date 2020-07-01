@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Permalink Test!"
-categories: jekyll update new_cat
+categories:
 Permalink: "/:categories/:month/:day/:title.html"
 ---
 This post is to test the permanentlink feature.

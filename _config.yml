@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Blog
+title: lee-ws
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trying to set up a blog by myself using jekyll and github pages. Don't be surprised
@@ -36,14 +36,14 @@ remote_theme: thelehhman/texture
 texture:
   style: red
   title: lee-ws
-  tagline: Student studying computer science
+  tagline: computer science student
   date_format: "%b %-d, %Y"
   social_links:
     github:  lee-ws
 #    linkedIn: in/thelehhman # format: locale/username
 #    twitter: thelehhman
   showNav: true
-  showPicker: true
+  showPicker: false
   navigation:
     - title: Home
       url: "/"
