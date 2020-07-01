@@ -43,11 +43,12 @@ texture:
 #    linkedIn: in/thelehhman # format: locale/username
 #    twitter: thelehhman
   showNav: true
+  showPicker: true
   navigation:
+    - title: Home
+      url: "/"
     - title: About
       url: "/about/"
-    - title: Donate
-      url: "/donate/"
 # theme: minima
 plugins:
   - jekyll-feed
